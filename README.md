@@ -1,7 +1,4 @@
 <!-- Project Logo -->
-<p align="center">
-  <img src="Circuit.jpg" alt="MedWatch System Logo" width="200"/>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Arduino-Health%20Monitor-blue?logo=arduino"/>
