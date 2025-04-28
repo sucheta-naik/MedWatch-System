@@ -1,0 +1,41 @@
+# Arduino build files
+*.hex
+*.elf
+*.bin
+*.eep
+*.dmp
+*.map
+*.out
+*.o
+*.a
+*.pyc
+*.class
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# OS generated files
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Exclude large or unnecessary files
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.bak
+*.old
+
+# Exclude PDF and images if not needed (uncomment if you want to ignore)
+# *.pdf
+# *.jpg
+# *.jpeg
+# *.png
